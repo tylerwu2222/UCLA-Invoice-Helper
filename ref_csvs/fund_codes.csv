@@ -1,0 +1,24 @@
+Library,Ledger,Freight,Mono Tax,Serial Tax
+Arts Library,Arts,L3X-ARFRT8,L3M-ARTAX9,L3S-ARTAX9
+Biomed Library,Biomed,L3X-BIFRT8,L3M-BITAX9,L3S-BITAX9
+Powell Library,Powell,L3X-CLFRT8,L3M-CLTAX9,L3S-CLTAX9
+East Asian Library-Chinese,East Asian,L3X-EAFTC8,L3MPEATXC9,L3SPEATXC9
+East Asian Library-Japanese,East Asian,L3X-EAFTJ8,L3MPEATXJ9,L3SPEATXJ9
+East Asian Library-Korean,East Asian,L3X-EAFTK8,L3MPEATXK9,L3SPEATXK9
+East Asian -English Mono,East Asian,L3X-EAFTM8,L3MPEATXE9,
+East Asian_English Serial,East Asian,L3X-EAFTS8,,L3SPEATXE9
+Law Differential Library,Law Differential,D3X-LWFRT8,D3M-LWTAX9,D3S-LWTAX9
+Management Library,Management,L3X-MGFRT8,L3M-MGTAX9,L3S-MGTAX9
+Music Library,Music,L3X-MUFRT8,L3M-MUTAX9,L3S-MUTAX9
+Science & Engineering Library,SEL,L3XSEEFRT8,L3MSEETAX9,L3SSEETAX9
+Humanities & Social Sciences,HSS,L3X-YRFRT8,L3M-YRTAX9,L3S-YRTAX9
+Special Collections Library,Spec. Coll.,L3X-SCFRT8,L3M-SCTAX9,L3S-SCTAX9
+University Elementary School,UES,L3X-UEFRT8,L3M-UETAX9,L3S-UETAX9
+International Studies,IS,L3X-ISFRT8,L3M-ISTAX9, L3S-ISTAX9
+BIOMED ILL-IPP,AUL Collections,L3XPBIIPP2,L3XPBIIPP2,L3XPBIIPP2
+Coll Mgmt Supp Serv/LAO,AUL Collections,L3XPLAAB-7,L3XPLAAB-7,L3XPLAAB-7
+Shared,,L3XPLASAF8,L3MPLASAT9,L3SPLASAT9
+Contracts & Grants,,,,
+Sales & Services,,,,
+Special Foundation,,,,
+Special Regental,,,,

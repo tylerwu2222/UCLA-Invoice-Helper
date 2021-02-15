@@ -1,0 +1,7 @@
+InvHelper
+	- (cancel function) CTRL+Q
+	
+ChargeAdder
+	Excel:
+	- combine into one xlsx (the one with separate sheets)
+	- add row index column -> just adjust charge_adder +1

@@ -1,0 +1,1 @@
+invoice ,invoice_,Inv_,amalivre,SACAP ,MECAP ,AFRICAP ,YBP ,PIACAP ,BrazilCAP ,ASUCLA ,Bach ,Ventara ,Harrassowitz ,Casalini ,Karno ,YBPUK ,Strand ,Linardi y Risso ,Sulaiman ,OPES_,Alibris ,Erasmus (LFZ) ,Erasmus (ERA) ,Hogarth ,OVID,invoice#,DOCUMENT_,_OLD DATE,INV#,BOOKS FROM MEXICO ,LIBROS LATINOS ,PUVILL ,WORLDWIDE ,_S#,RETTA LIBROS 
